@@ -1,0 +1,51 @@
+const product_card = [
+  {
+    id: 1,
+    product_name: "Gym Bag",
+    description: "Shoes Compartment & Wet Pocket Gym Duffel Bag Overnight Bag",
+    price: 80,
+    currency: "$",
+    thumb: "./products/gym-bag.png",
+  },
+  {
+    id: 2,
+    product_name: "White Nike Hoodie",
+    description: "Nike Fleece Hoodie",
+    price: 60,
+    currency: "$",
+    thumb: "./products/nike.png",
+  },
+  {
+    id: 3,
+    product_name: "Workout Gloves",
+    description: "Weight Lifting Gloves with Wrist Support for Gym Exercise",
+    price: 30,
+    currency: "$",
+    thumb: "./products/gym-gloves.png",
+  },
+  {
+    id: 4,
+    product_name: "Underarmor Shorts",
+    description: "Performance Mesh Short",
+    price: 45,
+    currency: "$",
+    thumb: "./products/gym-shorts.png",
+  },
+  {
+    id: 5,
+    product_name: "Headphones",
+    description: "Hands-free, Hads-on Mush Experience",
+    price: 120,
+    currency: "$",
+    thumb: "./products/headphones.png",
+  },
+  {
+    id: 6,
+    product_name: "Rocky Boxing Gloves",
+    description: "Training Gloves is made of PU Leather & gel liner",
+    price: 40,
+    currency: "$",
+    thumb: "./products/boxing.png",
+  },
+];
+export default product_card;
